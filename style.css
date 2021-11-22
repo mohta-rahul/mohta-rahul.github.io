@@ -95,7 +95,7 @@ body {
 
 #nav {
   padding-top: 372px;
-  background: url(images/header.jpg) no-repeat;
+  background: url(./images/header.jpg) no-repeat;
 background-size: 100% 100%;//this solves the image getting cropped issue.
 }
 #nav ul {
