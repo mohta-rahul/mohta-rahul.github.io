@@ -28,7 +28,7 @@ a:hover {
 }
 
 body {
-	background: #C89C52 url(images/page_bg.jpg) repeat-x;
+	background: #C89C52 url(./images/page_bg.jpg) repeat-x;
 	text-align: center;
 	font: 11px arial, sans-serif;
 	color: #E5D19C;
@@ -68,7 +68,7 @@ body {
 }
 #nav-top li {
   float: left;
-  background: #C19855 url(images/tab_left.gif) no-repeat;
+  background: #C19855 url(./images/tab_left.gif) no-repeat;
   list-style: none;
   text-align: center;
   font: 18px "Times new roman", serif;
@@ -76,7 +76,7 @@ body {
   line-height: 31px;
 }
 #nav-top li div {
-  background: top right url(images/tab_right.gif) no-repeat;
+  background: top right url(./images/tab_right.gif) no-repeat;
 }
 #nav-top li#tab-faq {
   width: 59px;
@@ -104,7 +104,7 @@ background-size: 100% 100%;//this solves the image getting cropped issue.
   height: 36px;
   line-height: 36px;
   border-left: 2px solid #9E9479;
-  background: bottom left url(images/nav_lit.gif) repeat-x;
+  background: bottom left url(./images/nav_lit.gif) repeat-x;
 }
 #nav li {
   list-style: none;
@@ -113,7 +113,7 @@ background-size: 100% 100%;//this solves the image getting cropped issue.
   padding: 0 10px;
 }
 #nav li.home {
-  background: bottom left url(images/nav_drk.gif) repeat-x;
+  background: bottom left url(./images/nav_drk.gif) repeat-x;
   padding-left: 25px;
 }
 #nav a {
@@ -191,7 +191,7 @@ background-size: 100% 100%;//this solves the image getting cropped issue.
   color: #fff;
   height: 23px;
   margin-bottom: 20px;
-  background: top center url(images/tab_drk.gif) no-repeat;
+  background: top center url(./images/tab_drk.gif) no-repeat;
 }
 #gallery .box p {
   margin: 1em 0;
@@ -201,7 +201,7 @@ background-size: 100% 100%;//this solves the image getting cropped issue.
 #gallery .box .more {
   height: 18px;
   line-height: 18px;
-  background: #978040 top left url(images/moretab_left_drk.gif) no-repeat;
+  background: #978040 top left url(./images/moretab_left_drk.gif) no-repeat;
   position: absolute;
   bottom: 0;
   right: 0;
@@ -219,10 +219,10 @@ background-size: 100% 100%;//this solves the image getting cropped issue.
   background: #735220;
 }
 #gallery .box-lit h3 {
-  background: top center url(images/tab_lit.gif) no-repeat;
+  background: top center url(./images/tab_lit.gif) no-repeat;
 }
 #gallery .box-lit .more {
-  background: #B4A26D top left url(images/moretab_left_lit.gif) no-repeat;
+  background: #B4A26D top left url(./images/moretab_left_lit.gif) no-repeat;
 }
 
 #content .right-col li, #content .right-col ul {
